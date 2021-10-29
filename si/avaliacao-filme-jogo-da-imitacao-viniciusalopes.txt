@@ -1,0 +1,33 @@
+Disciplina: Sistemas Inteligentes
+Aluno . . : Vinicius Araujo Lopes
+Tarefa. . : Atividade 1 - Avaliação sobre o filme "O Jogo da Imitação"
+-----------------------------------------------------------------------------------------
+
+1. Qual foi a parte mais interessante do filme para você? Descreva.
+
+R. Achei interessante a parte que ele entende que pode fazer o Cristopher aprender palavras repetidas e reconhecer padrões.
+Quando a amiga de sua noiva conta casualmente que um dos alemães inicia as mensagens sempre com as mesmas letras, ele tem um insight e reprograma o Cristopher para tentar apenas combinações que não se repetem.
+-----------------------------------------------------------------------------------------
+
+2. Pesquise na internet o que são as ‘Máquinas de Turing’ e o que elas tem a ver com os nossos computadores, e por fim, apresente o resultado de sua pesquisa
+
+R. Máquinas de Turing referem-se a um modelo teórico. Desde que baseada em cálculos matemáticos e sequencias lógicas, qualquer sistema com capacidade de executar um algoritmo programado pode ser considerada uma máquina de Turing. O conceito das máquinas de Turing é intrínseca à cosntrução e ao funcionamento dos computadores atuais.
+Conteúdos pesquisados:
+- https://www.ufrgs.br/alanturingbrasil2012/Maquina_de_Turing.pdf
+- https://www.google.com/doodles/alan-turings-100th-birthday
+- https://pt.wikipedia.org/wiki/M%C3%A1quina_de_Turing
+- https://brasilescola.uol.com.br/biografia/alan-mathison.htm
+- http://plaggiado.blogspot.com/2015/03/a-maca-da-apple-e-homenagem-alan-turing.html
+- https://www.ftec.com.br/blog/quinta-retro-alan-turing-entre-o-enigma-e-a-maca/#:~:text=Em%207%20de%20junho%20de,anos%20ap%C3%B3s%20a%20sua%20morte.
+-----------------------------------------------------------------------------------------
+
+3. Descreva as principais contribuições de Alan Turing para a computação/ciência.
+
+R. Tecnologias e conceitos de criptografia e a base teórica para o desenvolvimento de inteligência artificial.
+-----------------------------------------------------------------------------------------
+
+4. Pesquise na internet a maneira real com que Alan Turing foi morto. Qual é a relação entre a morte real de Turing e o símbolo da empresa americana Apple?
+
+R. Há controvérsias sobre se o envenenamento de Turing foi intencional ou acidental, mas sabe-se que ele foi encontrado morto com uma maçã mordida e envenenada com cianeto.
+A versão mais plausível para para o símbolo da Apple é que ele seja uma homenagem da empresa ao Allan Turing, representada pelas cores da primeira versão da logo simnbolizando a preferência sexual de Allan e pela mordida na maçã.
+-----------------------------------------------------------------------------------------
